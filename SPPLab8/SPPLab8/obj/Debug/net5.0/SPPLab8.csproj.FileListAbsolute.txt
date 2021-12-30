@@ -1,0 +1,16 @@
+C:\Labs\SPP\SPPLab8\SPPLab8\bin\Debug\net5.0\SPPLab8.exe
+C:\Labs\SPP\SPPLab8\SPPLab8\bin\Debug\net5.0\SPPLab8.deps.json
+C:\Labs\SPP\SPPLab8\SPPLab8\bin\Debug\net5.0\SPPLab8.runtimeconfig.json
+C:\Labs\SPP\SPPLab8\SPPLab8\bin\Debug\net5.0\SPPLab8.runtimeconfig.dev.json
+C:\Labs\SPP\SPPLab8\SPPLab8\bin\Debug\net5.0\SPPLab8.dll
+C:\Labs\SPP\SPPLab8\SPPLab8\bin\Debug\net5.0\ref\SPPLab8.dll
+C:\Labs\SPP\SPPLab8\SPPLab8\bin\Debug\net5.0\SPPLab8.pdb
+C:\Labs\SPP\SPPLab8\SPPLab8\obj\Debug\net5.0\SPPLab8.csproj.AssemblyReference.cache
+C:\Labs\SPP\SPPLab8\SPPLab8\obj\Debug\net5.0\SPPLab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\SPP\SPPLab8\SPPLab8\obj\Debug\net5.0\SPPLab8.AssemblyInfoInputs.cache
+C:\Labs\SPP\SPPLab8\SPPLab8\obj\Debug\net5.0\SPPLab8.AssemblyInfo.cs
+C:\Labs\SPP\SPPLab8\SPPLab8\obj\Debug\net5.0\SPPLab8.csproj.CoreCompileInputs.cache
+C:\Labs\SPP\SPPLab8\SPPLab8\obj\Debug\net5.0\SPPLab8.dll
+C:\Labs\SPP\SPPLab8\SPPLab8\obj\Debug\net5.0\ref\SPPLab8.dll
+C:\Labs\SPP\SPPLab8\SPPLab8\obj\Debug\net5.0\SPPLab8.pdb
+C:\Labs\SPP\SPPLab8\SPPLab8\obj\Debug\net5.0\SPPLab8.genruntimeconfig.cache
